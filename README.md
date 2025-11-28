@@ -7,7 +7,6 @@ Each project lives in its own folder and includes:
 - `index.html`
 - `style.css`
 - `script.js`
-- (Optional) a short local README for that project
 
 The goal was **daily practice**, improving core frontend skills, and keeping consistent commits.
 
