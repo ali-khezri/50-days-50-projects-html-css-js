@@ -26,7 +26,7 @@ The goal was **daily practice**, improving core frontend skills, and keeping con
 |-----|--------------|--------|--------|-----------|
 | 01 | Expanding Cards | ✅ | /01-expanding-cards | - |
 | 02 | Progress Steps | ✅ | /02-progress-steps | - |
-| 03 | Rotating Navigation | ⭕ | /03-rotating-navigation | - |
+| 03 | Rotating Navigation | ✅ | /03-rotating-navigation | - |
 | 04 | Hidden Search Widget | ⭕ | /04-hidden-search | - |
 | 05 | Blurry Loading | ⭕ | /05-blurry-loading | - |
 | 06 | Scroll Animation | ⭕ | /06-scroll-animation | - |
