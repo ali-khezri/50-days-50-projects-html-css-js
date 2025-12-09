@@ -31,7 +31,7 @@ The goal was **daily practice**, improving core frontend skills, and keeping con
 | 03  | Rotating Navigation          | ✅     | /03-rotating-navigation    | -         |
 | 04  | Hidden Search Widget         | ✅     | /04-hidden-search          | -         |
 | 05  | Blurry Loading               | ✅     | /05-blurry-loading         | -         |
-| 06  | Scroll Animation             | ⭕     | /06-scroll-animation       | -         |
+| 06  | Scroll Animation             | ✅     | /06-scroll-animation       | -         |
 | 07  | Split Landing Page           | ⭕     | /07-split-landing-page     | -         |
 | 08  | Form Wave Animation          | ⭕     | /08-form-wave-animation    | -         |
 | 09  | Sound Board                  | ⭕     | /09-sound-board            | -         |
