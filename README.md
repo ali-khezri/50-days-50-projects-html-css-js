@@ -35,7 +35,7 @@ The goal was **daily practice**, improving core frontend skills, and keeping con
 | 07  | Split Landing Page           | ✅     | /07-split-landing-page     | -         |
 | 08  | Form Wave Animation          | ✅     | /08-form-wave-animation    | -         |
 | 09  | Sound Board                  | ✅     | /09-sound-board            | -         |
-| 10  | Dad Jokes                    | ⭕     | /10-dad-jokes              | -         |
+| 10  | Dad Jokes                    | ✅     | /10-dad-jokes              | -         |
 | 11  | Event KeyCodes               | ⭕     | /11-event-keycodes         | -         |
 | 12  | FAQ Collapse                 | ⭕     | /12-faq-collapse           | -         |
 | 13  | Random Choice Picker         | ⭕     | /13-random-choice-picker   | -         |
