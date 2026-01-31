@@ -39,7 +39,7 @@ The goal was **daily practice**, improving core frontend skills, and keeping con
 | 11  | Event KeyCodes               | ✅     | /11-event-keycodes         | -         |
 | 12  | FAQ Collapse                 | ✅     | /12-faq-collapse           | -         |
 | 13  | Random Choice Picker         | ✅     | /13-random-choice-picker   | -         |
-| 14  | Animated Navigation          | ⭕     | /14-animated-navigation    | -         |
+| 14  | Animated Navigation          | ✅     | /14-animated-navigation    | -         |
 | 15  | Increment Counter            | ⭕     | /15-increment-counter      | -         |
 | 16  | Drink Water Tracker          | ⭕     | /16-drink-water            | -         |
 | 17  | Movie App                    | ⭕     | /17-movie-app              | -         |
