@@ -42,7 +42,7 @@ The goal was **daily practice**, improving core frontend skills, and keeping con
 | 14  | Animated Navigation          | ✅     | /14-animated-navigation    | -         |
 | 15  | Increment Counter            | ✅     | /15-increment-counter      | -         |
 | 16  | Drink Water Tracker          | ✅     | /16-drink-water            | -         |
-| 17  | Movie App                    | ⭕     | /17-movie-app              | -         |
+| 17  | Movie App                    | ✅     | /17-movie-app              | -         |
 | 18  | Background Slider            | ⭕     | /18-background-slider      | -         |
 | 19  | Theme Clock                  | ⭕     | /19-theme-clock            | -         |
 | 20  | Button Ripple Effect         | ⭕     | /20-button-ripple-effect   | -         |
