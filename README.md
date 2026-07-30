@@ -44,7 +44,7 @@ The goal was **daily practice**, improving core frontend skills, and keeping con
 | 16  | Drink Water Tracker          | ✅     | /16-drink-water            |
 | 17  | Movie App                    | ✅     | /17-movie-app              |
 | 18  | Background Slider            | ✅     | /18-background-slider      |
-| 19  | Theme Clock                  | ⭕     | /19-theme-clock            |
+| 19  | Theme Clock                  | ✅     | /19-theme-clock            |
 | 20  | Button Ripple Effect         | ⭕     | /20-button-ripple-effect   |
 | 21  | Drag N Drop                  | ⭕     | /21-drag-n-drop            |
 | 22  | Drawing App                  | ⭕     | /22-drawing-app            |
