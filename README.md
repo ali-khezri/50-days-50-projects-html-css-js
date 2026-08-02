@@ -47,7 +47,7 @@ The goal was **daily practice**, improving core frontend skills, and keeping con
 | 19  | Theme Clock                  | ✅     | /19-theme-clock            |
 | 20  | Button Ripple Effect         | ✅     | /20-button-ripple-effect   |
 | 21  | Drag N Drop                  | ✅     | /21-drag-n-drop            |
-| 22  | Drawing App                  | ⭕     | /22-drawing-app            |
+| 22  | Drawing App                  | ✅     | /22-drawing-app            |
 | 23  | Kinetic Loader               | ⭕     | /23-kinetic-loader         |
 | 24  | Content Placeholder          | ⭕     | /24-content-placeholder    |
 | 25  | Sticky Navbar                | ⭕     | /25-sticky-navbar          |
